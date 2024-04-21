@@ -1,14 +1,14 @@
-# Projecte Vue
+# Vue + Laravel Moduls App
 
-## Instalació
+## Instalación
 
 ### Backend
 
 ```bash
 cd laravel-backend
 composer install
-cp .env.example .env    # Configurar entorn
-php artisan migrate:fresh --seed # Seed per afegir dades fake
+cp .env.example .env    # Configurar entorno
+php artisan migrate:fresh --seed # Seed añadir fake data
 ```
 
 ### Frontend
@@ -18,7 +18,7 @@ cd vue-frontend
 npm install
 ```
 
-## Execució
+## Ejecución
 
 ### Backend
 
